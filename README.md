@@ -41,9 +41,7 @@
 
 ## 📫 Connect with Me
 
-<a href="https://github.com/yashandodariya" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-</a>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
