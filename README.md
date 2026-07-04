@@ -41,7 +41,9 @@
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/yashandodariya
+<a href="https://github.com/yashandodariya" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+</a>
 
 ---
 
